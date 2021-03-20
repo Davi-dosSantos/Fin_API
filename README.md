@@ -1,4 +1,13 @@
-##
+# :bulb: About the project
+Project worked during nlw, an NPS API ( Net promoter score)
+# :hammer_and_wrench: Techs
+## Java Script
+
+## :link: Endpoints
+
+# :bust_in_silhouette: Author
+
+<p>Davi dos Santos Costa</p>
 
 ## Requisitos
 
